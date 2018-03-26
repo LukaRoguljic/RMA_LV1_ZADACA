@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Inspiring</string>
+    <string name="OppenheimerCV">
+        Robert Oppenheimer (New York, 22. travnja 1904. - Princeton, 18. veljače 1967.),
+        američki fizičar Bio je direktor Instituta za napredne studije (Institute for Advanced Study) u Princetonu.
+        Poznat je po radovima iz nuklearne fizike. Godine 1936. otkrio je tip nuklearnih reakcija poznatih pod nazivom STRIPPING reakcije
+        koje su važne pri određivanju nuklearne struktire.Tijekom Drugog svjetskog rata bio je na čelu istraživačkog rada za proizvodnju
+        atomske bombe u Los Alamosu. Poslije rata negativno se odnosio prema projektu izrade H-bombe, pa je 1954. optužen zbog simpatija prema komunizmu.
+        zabranjen mu je pristup povjerljivim dokumentima o nuklearnim istraživanjima. Godine 1963. potpuno je rehabilitiran te ga je Komisija za atomsku energiju
+        SAD-a, zbog njegova velikoga doprinosa teorijjskoj fizici, nagradila Fermijevom nagradom.
+    </string>
+    <string name="NewtonCV">Isaac Newton (Woolsthorpe, 25. prosinca 1642. – Kensington, 20. ožujka 1717.), engleski fizičar, matematičar i astronom. Jedan od najznačajnijih znanstvenika u povijesti. Završio je studij u Cambridgeu (1661. – 1665.). Nakon završetka studija, kada se zbog kuge sveučilište zatvorilo, vratio se kući u Woolsthorpe, gdje je samostalno učinio niz temeljnih otkrića iz mehanike i matematike (1665. – 1667.), premda je većinu objavio tek nakon dvadesetak godina. Godine 1669. postao je profesor na Trinity Collegeu u Cambridgeu. Tih godina bavio se uglavnom optikom. Od 1671. bio je član (od 1703. predsjednik i stalno biran do kraja života) Kraljevskog društva (eng. Royal Society) u Londonu. Godine 1695. postavljen je za nadzornika, a 1701. za upravitelja državne kovnice novca. Tada se preselio u London, gdje je ostao do kraja života. Godine 1699. postao je jedan od osmorice stranih članova Francuske akademije znanosti</string>
+    <string name="HiggsCV">Peter Higgs (Newcastle upon Tyne, 29. svibnja 1929.), britanski teorijski fizičar. Diplomirao (1952.) i doktorirao (1954) na Kraljevskom koledžu u Londonu. Bio zaposlen na Sveučilištu u Edinburghu (od 1954. do 1956. i od 1960. do 1996.). Član Kraljevskog društva (eng. Royal Society) od 1983. Objašnjavajući podrijetlo mase elementarnih čestica, u standardni model čestica uveo je spontano narušavanje elektroslabe simetrije, takozvani Higgsov mehanizam (1960.). Predvidio je postojanje nove čestice (Higgsova čestica). Za otkriće mehanizma koji pridonosi razumijevanju podrijetla mase subatomskih čestica što je pronalaženjem predviđene elementarne čestice potvrđeno pokusima u CERN-u, s F. Englertom dobio Nobelovu nagradu za fiziku 2013.</string>
+</resources>

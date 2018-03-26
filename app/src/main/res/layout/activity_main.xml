@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/backgroundimage"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraText">
+
+    <ImageView
+        android:id="@+id/OppenheimerImageView"
+        android:layout_marginTop="0dp"
+        android:layout_marginLeft="3dp"
+        android:layout_width="@dimen/imgWidthDim"
+        android:layout_height="@dimen/imgHeightDim"
+        android:src="@drawable/opimage"
+        />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/imgHeightDim"
+        android:layout_marginTop="3dp"
+        android:layout_marginLeft="@dimen/contentMargin"
+        >
+        <TextView
+
+            android:id="@+id/tv_OppenheimerTile"
+            android:scrollbars="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/imgHeightDim"
+            android:layout_marginTop="2dp"
+            android:layout_alignTop="@+id/OppenheimerImageView"
+            android:layout_toEndOf="@+id/OppenheimerImageView"
+            android:layout_toRightOf="@+id/OppenheimerImageView"
+            android:text="@string/OppenheimerCV"
+            />
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/NewtonImageView"
+        android:layout_width="@dimen/imgWidthDim"
+        android:layout_height="@dimen/imgHeightDim"
+        android:layout_below="@id/OppenheimerImageView"
+        android:layout_marginTop="7dp"
+        android:layout_marginLeft="3dp"
+        android:src="@drawable/isaacimg"
+        />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/imgHeightDim"
+        android:layout_marginLeft="@dimen/contentMargin"
+        android:layout_marginTop="160dp">
+        <TextView
+            android:id="@+id/tv_Newton"
+            android:scrollbars="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/imgHeightDim"
+            android:text="@string/NewtonCV"
+            />
+    </ScrollView>
+
+    <ImageView
+        android:id="@+id/HiggsImageView"
+        android:layout_width="@dimen/imgWidthDim"
+        android:layout_height="@dimen/imgHeightDim"
+        android:layout_below="@id/NewtonImageView"
+        android:layout_marginLeft="3dp"
+        android:src="@drawable/higgsimg"
+        android:layout_marginTop="10dp"
+        />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/imgHeightDim"
+        android:layout_marginTop="320dp"
+        android:layout_marginLeft="@dimen/contentMargin">
+
+        <TextView
+            android:id="@+id/tv_Higgs"
+            android:scrollbars="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/imgHeightDim"
+            android:text="@string/HiggsCV"
+            />
+    </ScrollView>
+
+
+
+</RelativeLayout>
