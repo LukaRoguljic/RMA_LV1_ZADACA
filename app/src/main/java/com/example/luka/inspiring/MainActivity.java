@@ -25,21 +25,21 @@ public class MainActivity extends AppCompatActivity {
         OppenheimerImage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"I am become, the destroyer of worlds!",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, R.string.oppenheimerQuote,Toast.LENGTH_SHORT).show();
             }
         });
 
         NewtonImage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"I can calculate the motion of heavenly bodies, but not the madness of people.",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this, R.string.newtonQuote,Toast.LENGTH_SHORT).show();
             }
         });
 
         HiggsImage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"Nobody else took what I was doing seriously, so nobody would want to work with me. I was tought to be a bit eccentric and maybe cranky.",Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, R.string.higgsQuote,Toast.LENGTH_LONG).show();
             }
         });
     }
