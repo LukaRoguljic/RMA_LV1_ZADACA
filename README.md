@@ -8,4 +8,4 @@ Toast poruke, citate je moguće spremiti u XML datoteku u obliku polja stringova
 Aplikaciju je potrebno testirati na barem dva uređaja (stvarna ili virtualna), te osmisliti
 ikonu.
 
-RMA Zadaca
+# DEVELOPMENT
