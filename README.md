@@ -9,7 +9,14 @@ Aplikaciju je potrebno testirati na barem dva uređaja (stvarna ili virtualna), 
 ikonu.
 
 
-# Built with
+## Razvojna okruženja i tehnologije
 
-Android Studio (JAVA, XML)
+Android Studio - Razvojna platforma
+JAVA i XML - Tehnologije
+Genymotion, Oravcle VM VirtualBox - Simulacija uređaja
+Vivax Fly 4 - Stvarni uređaj za testiranje aplikacije
+
+## Izgled aplikacije
+
+![alt text](https://i.imgur.com/xz4eWaG.png)
 
