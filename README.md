@@ -25,9 +25,9 @@ StackOverflow je korišten kao pomoć pri rješavanju ove zadaće, ali i znanja 
 *  Vivax Fly 4 - Stvarni uređaj za testiranje aplikacije
 
 ## Izvori za životopise
-https://hr.wikipedia.org/wiki/Robert_Oppenheimer
-https://hr.wikipedia.org/wiki/Peter_Higgs
-https://hr.wikipedia.org/wiki/Isaac_Newton
+*  https://hr.wikipedia.org/wiki/Robert_Oppenheimer
+*  https://hr.wikipedia.org/wiki/Peter_Higgs
+*  https://hr.wikipedia.org/wiki/Isaac_Newton
 
 ## Izgled aplikacije
 
